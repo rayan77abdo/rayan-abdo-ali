@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
  body{
-    background-color: #eee;
+  background-color: #eee;
+
 } 
 /* hedar start */
      header{
@@ -59,9 +60,10 @@
     align-items: center;
     width: 100%;
     min-height: 600px;
-    background: url(/img/pngtree-background-technology-abstract-malware-image_555722.jpg);
+    background: url(../img/pngtree-background-technology-abstract-malware-image_555722.jpg);
     background-size: cover;
     background-repeat: no-repeat;  
+
 }
  .texts{
     text-align: center;
